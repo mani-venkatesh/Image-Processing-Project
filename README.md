@@ -1,3 +1,3 @@
-BMED/ECE 6780 Project
+# BMED/ECE 6780 Project
 
-Team 4
+## Team 4
